@@ -1,0 +1,3 @@
+rlhf.py=>in this code i created 4 responses based on that u take 2 and give to user.based on user feedback u want to store which response is good
+rlhfllm.py=>here i am not created any responses.i used llm,here user can ask question if the user fine with that answer then store the answer,otherwise u can regenerate the answer.
+rlhfstl.py=>same as rlhfllm but it have user interface.
